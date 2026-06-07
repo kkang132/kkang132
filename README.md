@@ -1,8 +1,8 @@
 # Kris Kang
 
-I work on AI developer tools and help orgs shift to agent-first SDLC.
+I work on AI developer tools and help organizations shift toward agentic software engineering.
 
-I use public technical artifacts to test product assumptions around agentic coding workflows, open v. frontier model economics, eval design, governance patterns, and LLM post-training & evaluation loops.
+I use public technical artifacts to test product assumptions around agentic coding workflows, open/local vs frontier model economics, eval design, governance patterns, and LLM post-training and evaluation loops.
 
 ## Public technical artifacts
 

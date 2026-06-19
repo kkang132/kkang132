@@ -2,7 +2,7 @@
 
 I work on AI developer tools at [JetBrains](https://www.jetbrains.com/#for-businesses) and help organizations shift toward agentic software engineering.
 
-I use public technical artifacts to test product assumptions around agentic coding workflows, open/local vs frontier model economics, eval design, governance patterns, and LLM post-training and evaluation loops.
+I use public technical artifacts to test my own thinking and product assumptions around agentic coding workflows, open/local vs frontier model economics, eval design, governance patterns, and LLM post-training and evaluation loops.
 
 ## Public technical artifacts
 

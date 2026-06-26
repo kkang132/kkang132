@@ -8,7 +8,7 @@ I use public technical artifacts to test my own thinking and product assumptions
 
 - [`mellum-bench`](https://github.com/kkang132/mellum-bench) — Toy benchmark of local/open model workers vs frontier-agent workflows across cost, latency, and quality.
   
-- ['open-harness-ablation'](https://github.com/kkang132/open-harness-ablation) - Toy ablation study of harness modifications and their subsequent effect on task completion performance.
+- [`open-harness-ablation`](https://github.com/kkang132/open-harness-ablation) - Toy ablation study of harness modifications and their subsequent effect on task completion performance.
  
 - [`rust-project`](https://github.com/kkang132/rust-project) — Rust CLI prototype for governed agentic engineering: ADRs, review gates, worktrees, tests, and handoff protocols.
 

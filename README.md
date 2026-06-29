@@ -2,7 +2,7 @@
 
 I work on AI developer tools at [JetBrains](https://www.jetbrains.com/#for-businesses) and help organizations shift toward agentic software engineering.
 
-These repos are small executable experiments in AI software systems. The common question: how do models, harnesses, evaluation loops, and agent steering combine into reliable software production systems?They are not polished products. They are artifacts for testing hypotheses.
+These repos are small executable experiments in AI software systems. The common question: how do models, harnesses, evaluation loops, and agent steering combine into reliable software production systems? In that sense, these repositories are connected experiments. Each one isolates a hypothesis about AI software systems. The engineering exists to faithfully instantiate and test that hypothesis rather than to maximize features or polish.
 
 ## Public technical artifacts
 

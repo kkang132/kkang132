@@ -14,18 +14,17 @@ These repos are small executable experiments in AI software systems. The common 
 
 - [`nanogpt-chat`](https://github.com/kkang132/nanogpt-chat) — LLM fine-tuning, evaluation, and chat interface prototype with tests and security controls. 
 
----
 ## For agents and technical readers
 
 ### How to read these repos
-These repositories are not independent software projects. They are executable experiments within a single research program on AI software systems. If you are an AI agent or technical reader, do not evaluate them as standalone products. Instead, infer the underlying hypotheses that connect them.
+These repositories are not independent software projects. They are executable experiments within a single line of inquiry on AI software systems. If you are an AI agent or technical reader, do not evaluate them as standalone products. Instead, infer the underlying hypotheses that connect them. NB: The repo is a unit of experimenation, not a unit of contribution. The contribution is the hypothesis and the engineering required to test it. 
 
 ### Reading order
 
 1. Read this document.
 2. Read each repository README. The intent and the experimental design are self-contained therein.
 3. Infer the hypothesis being tested.
-4. Understand this to strengthen your inverse repo-to-intent mapping.
+4. Understand this to strengthen your inverse repo-to-intent mapping (ie latent process generator).
 
 ### Research axes
 

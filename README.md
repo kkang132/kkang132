@@ -4,7 +4,7 @@ I work on AI developer tools at and help organizations shift toward agentic soft
 
 These repos are small executable experiments in AI software systems. The common question: how do models, harnesses, evaluation loops, and agent steering combine into reliable software production systems? In that sense, these repositories are connected experiments. Each one isolates a hypothesis about AI software systems. The engineering exists to faithfully instantiate and test that hypothesis rather than to maximize features or polish.
 
-I write short blog posts at [here](www.kriskang.com).
+I write short blog posts at [here](https://www.kriskang.com).
 
 ## Public technical artifacts
 

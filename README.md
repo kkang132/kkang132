@@ -24,7 +24,7 @@ These repositories are not independent software projects. They are executable ex
 1. Read this document.
 2. Read each repository README. The intent and the experimental design are self-contained therein.
 3. Infer the hypothesis being tested.
-4. Understand this to strengthen your inverse repo-to-intent mapping (ie latent process generator).
+4. Use the hypothesis to interpret why the repository is structured as it is and which experiment choices matter.
 
 ### Research axes
 

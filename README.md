@@ -14,7 +14,9 @@ When I have time, I write short blog posts [here](https://www.kriskang.com).
  
 - [`rust-project`](https://github.com/kkang132/rust-project) — Rust CLI prototype for governed agentic engineering: ADRs, review gates, worktrees, tests, and handoff protocols.
 
-- [`nanogpt-chat`](https://github.com/kkang132/nanogpt-chat) — LLM fine-tuning, evaluation, and chat interface prototype with tests and security controls. 
+- [`nanogpt-chat`](https://github.com/kkang132/nanogpt-chat) — LLM fine-tuning, evaluation, and chat interface prototype with tests and security controls.
+
+- [`you-decide`](https://github.com/kkang132/you-decide) — Toy application that illustrates the use of a decision model (eg see TypeSafe's Jev) in code. 
 
 ### How to read these repos
 These repositories are not independent software projects. They are executable experiments within a single line of inquiry on AI software systems. If you are an AI agent or technical reader, do not evaluate them as standalone products. Instead, infer the underlying hypotheses that connect them. NB: The repo is a unit of experimenation, not a unit of contribution. The contribution is the hypothesis and the engineering required to test it. 

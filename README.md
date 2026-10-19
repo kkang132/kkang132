@@ -12,7 +12,7 @@ When I have time, I write short blog posts [here](https://www.kriskang.com).
   
 - [`open-harness-ablation`](https://github.com/kkang132/open-harness-ablation) - Toy ablation study of harness modifications and their subsequent effect on task completion performance.
  
-- [`rust-project`](https://github.com/kkang132/rust-project) — Rust CLI prototype for governed agentic engineering: ADRs, review gates, worktrees, tests, and handoff protocols.
+- [`pr-analyzer`](https://github.com/kkang132/pr-analyzer) — Rust CLI prototype for governed agentic engineering: ADRs, review gates, worktrees, tests, and handoff protocols.
 
 - [`nanogpt-chat`](https://github.com/kkang132/nanogpt-chat) — LLM fine-tuning, evaluation, and chat interface prototype with tests and security controls.
 

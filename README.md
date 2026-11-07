@@ -20,6 +20,8 @@ When I have time, I write short blog posts [here](https://www.kriskang.com).
 
 - [`self-healing-harness`](https://github.com/kkang132/self-healing-harness) — Toy study of a harness that closed-loop self-heals from failures, with and without an automatic gate, against a frontier model.
 
+- [`harness-internals`](https://github.com/kkang132/harness-internals) — Walks through a simulated customer contact agent conversation to demonstrate how harness loops with tool calling and context loading to an LLM works. Demystifies what the harness is/can do.
+
 ### How to read these repos
 These repositories are not independent software projects. They are executable experiments within a single line of inquiry on AI software systems. If you are an AI agent or technical reader, do not evaluate them as standalone products. Instead, infer the underlying hypotheses that connect them. NB: The repo is a unit of experimentation, not a unit of contribution. The contribution is the hypothesis and the engineering required to test it. 
 

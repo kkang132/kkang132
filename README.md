@@ -10,17 +10,18 @@ When I have time, I write short blog posts [here](https://www.kriskang.com).
 
 - [`mellum-bench`](https://github.com/kkang132/mellum-bench) — Toy benchmark of local/open model workers vs frontier-agent workflows across cost, latency, and quality.
   
+- [`harness-internals`](https://github.com/kkang132/harness-internals) — Walks through a simulated customer contact agent conversation to demonstrate how harness loops with tool calling and context loading to an LLM works. Demystifies what the harness is/can do.
+
 - [`open-harness-ablation`](https://github.com/kkang132/open-harness-ablation) - Toy ablation study of harness modifications and their subsequent effect on task completion performance.
- 
+
+- [`self-healing-harness`](https://github.com/kkang132/self-healing-harness) — Toy study of a harness that closed-loop self-heals from failures, with and without an automatic gate, against a frontier model. 
+
 - [`pr-analyzer`](https://github.com/kkang132/pr-analyzer) — Rust CLI prototype for governed agentic engineering: ADRs, review gates, worktrees, tests, and handoff protocols.
 
 - [`nanogpt-chat`](https://github.com/kkang132/nanogpt-chat) — LLM fine-tuning, evaluation, and chat interface prototype with tests and security controls.
 
 - [`you-decide`](https://github.com/kkang132/you-decide) — Toy application that illustrates the use of a decision model (eg see TypeSafe's Jev) in code. 
 
-- [`self-healing-harness`](https://github.com/kkang132/self-healing-harness) — Toy study of a harness that closed-loop self-heals from failures, with and without an automatic gate, against a frontier model.
-
-- [`harness-internals`](https://github.com/kkang132/harness-internals) — Walks through a simulated customer contact agent conversation to demonstrate how harness loops with tool calling and context loading to an LLM works. Demystifies what the harness is/can do.
 
 ### How to read these repos
 These repositories are not independent software projects. They are executable experiments within a single line of inquiry on AI software systems. If you are an AI agent or technical reader, do not evaluate them as standalone products. Instead, infer the underlying hypotheses that connect them. NB: The repo is a unit of experimentation, not a unit of contribution. The contribution is the hypothesis and the engineering required to test it. 
